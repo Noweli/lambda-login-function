@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLoginFunction", "src\UserLoginFunction\UserLoginFunction.csproj", "{994F269F-7B5A-492C-BFFB-CDC8396E3739}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DFF3AAC9-7C47-4894-942C-891EE289CFEC}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		omnisharp.json = omnisharp.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994F269F-7B5A-492C-BFFB-CDC8396E3739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994F269F-7B5A-492C-BFFB-CDC8396E3739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994F269F-7B5A-492C-BFFB-CDC8396E3739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994F269F-7B5A-492C-BFFB-CDC8396E3739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
