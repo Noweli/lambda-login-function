@@ -1,1 +1,3 @@
-# lambda-login-function
+# Lambda login
+
+Using cognito and saving token to ElastiCache
